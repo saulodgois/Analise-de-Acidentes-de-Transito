@@ -8,6 +8,8 @@ matplotlib
 seaborn
 
 
+Você pode encontrar o dataset em: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
 Principais Funcionalidades
 Análise geográfica de acidentes por estado.
 Análise de padrões temporais (hora do dia, dia da semana).
