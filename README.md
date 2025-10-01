@@ -8,20 +8,6 @@ matplotlib
 seaborn
 
 
-Estrutura do Projeto
-.
-├── data/
-│   └── US_Accidents_March23.csv
-├── __init__.py
-├── accidents_states.py
-├── generate_summary_report.py
-├── loan_data.py
-├── main.py
-├── plot_accidents_population.py
-├── temporal_patterns.py
-└──	readme
-
-
 Principais Funcionalidades
 Análise geográfica de acidentes por estado.
 Análise de padrões temporais (hora do dia, dia da semana).
